@@ -1,0 +1,2 @@
+e1-dipper-p-stable-symbols-20190611_195302_553adaaa35.tgz
+Please visit http://husky.pt.miui.com/buildFile/modemSymbols to download the file.
