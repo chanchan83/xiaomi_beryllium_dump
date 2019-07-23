@@ -1,0 +1,87 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: uAsj5s8zhZ9mPlm2q25CVAikT+s=
+
+Name: firmware-update/storsec.img
+SHA1-Digest: h5gYZTW7ESSsiqr82/EDTykM+iE=
+
+Name: firmware-update/aop.img
+SHA1-Digest: 8eyuA54/snnZNNMImACy2OtKOAk=
+
+Name: firmware-update/devcfg.img
+SHA1-Digest: FRu1TDV3LVYjCf0ByU7Ly94Rr+w=
+
+Name: firmware-update/bluetooth.img
+SHA1-Digest: HshuCB3saTrtCVTthX+U5BvB2u0=
+
+Name: firmware-update/dsp.img
+SHA1-Digest: GYc96bWNL2zjGAvHr1+Y+c6NwUo=
+
+Name: compatibility.zip
+SHA1-Digest: nPcm8U2RWSuFdpVHSOpU+mjkmfM=
+
+Name: system.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: firmware-update/xbl.img
+SHA1-Digest: yUAI01XigOtEBqeClPbV12vETH8=
+
+Name: system.transfer.list
+SHA1-Digest: PcGHs16sALNwYYXpTp/UwjMG5sQ=
+
+Name: firmware-update/abl.elf
+SHA1-Digest: QLi+mwCqFpr7ThTFt4j/dV7HhaM=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: i1KMNeG43uuhtj4A0lUblg/S9X0=
+
+Name: firmware-update/hyp.img
+SHA1-Digest: yye2MccMwYK5Cw+5HEddVPf3K30=
+
+Name: firmware-update/xbl_config.img
+SHA1-Digest: W29i3ZEV2pq0Efp67dm6dTfuzZ0=
+
+Name: firmware-update/modem.img
+SHA1-Digest: oomapqLm+inhP+xAF6uHhDuISbs=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: BjEWgNvC9cNFbRt/mD9RhOsfcls=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: qXdrHw1bs7eXGVKq14sJPTHWNmw=
+
+Name: vendor.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: firmware-update/cmnlib64.img
+SHA1-Digest: lDZ/DPsFr6KzrjhH1WYj5RnwcfM=
+
+Name: vendor.new.dat.br
+SHA1-Digest: pl9J2g4vM3NPVSU/7SSQkrd14uw=
+
+Name: boot.img
+SHA1-Digest: NFr1NEdnQLCAEFRPt5l1bcSfoU8=
+
+Name: firmware-update/keymaster.img
+SHA1-Digest: wa2qMbJRAy8kxwJb3B/Dd4SHMMM=
+
+Name: firmware-update/qupfw.img
+SHA1-Digest: SubtrA8xvLD9DqOWlsGetTkREzU=
+
+Name: vendor.transfer.list
+SHA1-Digest: G8w3CYnT92yBhk7JfpuZaFq026U=
+
+Name: system.new.dat.br
+SHA1-Digest: zh7+Xl9+Bw0aRu8dQAHlldjwLWs=
+
+Name: firmware-update/cmnlib.img
+SHA1-Digest: nTh7DgBWBfb/siM6SpwaAPh6W44=
+
+Name: firmware-update/logo.img
+SHA1-Digest: g5vf5La8AbdhVfEfAxevak8YKdU=
+
+Name: firmware-update/tz.img
+SHA1-Digest: q7vJmIEMnIDmZ2ykNCu+wQyjyRo=
+
